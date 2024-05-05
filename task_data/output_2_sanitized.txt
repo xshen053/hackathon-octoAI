@@ -1,0 +1,709 @@
+Title: 2_sanitized, Chunk: 0
+2022-11-12 N Swimming for an hour
+2023-01-05 N Running in the park
+2022-10-30 N Yoga and meditation
+2023-03-18 Y Cycling along the river
+2022-08-17 Y Hiking in the mountains
+2023-06-20 Y Playing tennis with friends
+2022-12-03 Y Strength training at the gym
+2023-02-10 N Dancing salsa in a class
+2022-09-28 N Pilates session at home
+2023-05-15 N Walking in the neighborhood
+
+2022-11-12 N Swimming for an hour
+2023-01-05 N Running in the park
+2022-10-30 N Yoga and meditation
+2023-03-18 Y Cycling along the river
+2022-08-17 Y Hiking in the mountains
+2023-06-20 Y Playing tennis with friends
+2022-12-03 Y Strength training at the gym
+2023-02-10 N Dancing salsa in a class
+2022-09-28 N Pilates session at home
+2023-05-15 N Walking in the neighborhood
+--------
+Title: 2_sanitized, Chunk: 1
+2022-04-19 N Studying for exams at the library
+2023-07-22 N Reading a book on philosophy
+2022-12-08 Y Cooking a new recipe for dinner
+2023-08-05 Y Baking homemade bread
+2022-06-11 N Practicing guitar chords
+2023-04-07 Y Experimenting with a new dessert recipe
+2022-09-03 N Writing a journal entry
+2023-01-30 N Researching a topic for a paper
+2022-11-26 N Learning a new language online
+2023-03-26 Y Making homemade pasta from scratch
+--------
+Title: 2_sanitized, Chunk: 2
+2022-10-23 Y Trying out a new vegetarian recipe
+2023-02-17 N Watching a documentary on history
+2022-07-09 N Attending a workshop on photography
+2023-05-05 N Sketching in a notebook
+2022-12-31 N Practicing calligraphy techniques
+2023-08-26 N Taking an online coding course
+2022-03-27 Y Cooking a traditional family recipe
+2023-07-29 Y Baking cookies with friends
+2022-04-23 N Studying for a certification exam
+2023-01-16 N Attending a seminar on finance
+--------
+Title: 2_sanitized, Chunk: 3
+2022-08-13 Y Trying out a new cake decorating technique
+2023-04-15 Y Hosting a dinner party for friends
+2022-11-05 N Reviewing class notes for a test
+2023-02-28 N Exploring new culinary techniques
+2022-10-16 N Watching educational videos on YouTube
+2023-06-09 N Practicing mindfulness meditation
+2022-12-17 Y Cooking a special anniversary dinner
+2023-04-28 Y Making homemade ice cream
+2022-09-10 N Studying for a professional certification
+2023-01-03 N Attending a cooking class
+--------
+Title: 2_sanitized, Chunk: 4
+2022-07-30 N Experimenting with watercolor painting
+2023-05-28 N Trying out a new fitness routine
+2022-03-26 Y Hosting a potluck dinner with friends
+2023-07-02 Y Making fresh smoothies at home
+2022-05-14 N Reviewing lecture notes for an exam
+2023-01-09 N Reading a textbook on psychology
+2022-10-02 Y Trying out a new recipe from a cookbook
+2023-02-22 Y Hosting a brunch gathering with family
+2022-11-19 N Practicing origami folding techniques
+2023-03-12 N Watching a documentary on astronomy
+--------
+Title: 2_sanitized, Chunk: 5
+2022-08-06 N Attending a seminar on personal finance
+2023-06-02 N Exploring new hiking trails in the area
+2022-12-24 Y Making homemade pizza with fresh ingredients
+2023-05-21 Y Hosting a barbecue cookout in the backyard
+2022-04-09 N Reviewing study materials for a test
+2023-01-01 N Attending a workshop on creative writing
+2022-07-23 Y Trying out a new recipe for homemade jam
+2023-04-22 Y Hosting a cooking competition with friends
+2022-09-17 N Studying for a final exam at the library
+2023-01-14 N Attending a lecture on art history
+--------
+Title: 2_sanitized, Chunk: 6
+2022-10-09 N Practicing yoga and meditation at home
+2023-06-11 N Trying out a new painting technique
+2022-12-10 Y Cooking a holiday feast for family and friends
+2023-04-01 Y Making homemade granola bars
+2022-05-21 N Reviewing study guides for standardized tests
+2023-02-04 N Attending a seminar on nutrition
+2022-11-26 N Exploring new hiking trails in the area
+2023-03-19 N Practicing mindfulness meditation
+2022-08-13 Y Trying out a new recipe for homemade soup
+2023-06-12 Y Hosting a dinner party for friends
+--------
+Title: 2_sanitized, Chunk: 7
+2022-12-03 N Reviewing class notes for an exam
+2023-04-23 N Attending a workshop on leadership skills
+2022-09-24 Y Trying out a new recipe from a cooking magazine
+2023-01-15 Y Hosting a potluck dinner with friends
+2022-10-10 N Practicing calligraphy techniques at home
+2023-06-13 N Exploring new hiking trails in the area
+2022-12-11 N Watching educational videos on YouTube
+2023-04-02 N Attending a seminar on personal finance
+2022-05-22 N Practicing mindfulness meditation at home
+2023-02-05 N Trying out a new recipe for homemade pasta
+--------
+Title: 2_sanitized, Chunk: 8
+2022-11-27 N Reviewing lecture notes for a test
+2023-03-20 N Attending a workshop on creative writing
+2022-08-14 N Exploring new hiking trails in the area
+2023-06-14 N Practicing yoga and meditation at home
+2022-12-05 Y Cooking a special dinner for a loved one
+2023-04-25 Y Trying out a new recipe for homemade bread
+2022-09-26 N Hosting a game night with friends
+2023-01-17 N Attending a seminar on personal development
+2022-10-10 N Practicing photography skills in the park
+2023-06-13 N Watching a documentary on history
+--------
+Title: 2_sanitized, Chunk: 9
+2022-12-11 Y Trying out a new recipe from a cooking blog
+2023-04-02 Y Hosting a barbecue cookout in the backyard
+2022-05-22 N Reviewing study materials for a test
+2023-02-05 N Attending a workshop on leadership skills
+2022-11-27 N Practicing yoga and meditation at home
+2023-03-20 N Trying out a new recipe for homemade pasta
+2022-08-14 N Hosting a potluck dinner with friends
+2023-06-14 N Exploring new hiking trails in the area
+2022-12-05 Y Cooking a special dinner for a loved one
+2023-04-25 Y Trying out a new recipe for homemade bread
+--------
+Title: 2_sanitized, Chunk: 10
+2022-09-26 N Hosting a game night with friends
+2023-01-17 N Attending a seminar on personal development
+2022-10-10 N Practicing photography skills in the park
+2023-06-13 N Watching a documentary on history
+2022-12-11 Y Trying out a new recipe from a cooking blog
+2023-04-02 Y Hosting a barbecue cookout in the backyard
+2022-05-22 N Reviewing study materials for a test
+2023-02-05 N Attending a workshop on leadership skills
+2022-11-27 N Practicing yoga and meditation at home
+2023-03-20 N Trying out a new recipe for homemade pasta
+--------
+Title: 2_sanitized, Chunk: 11
+2022-08-14 N Hosting a potluck dinner with friends
+2023-06-14 N Exploring new hiking trails in the area
+2022-12-05 Y Cooking a special dinner for a loved one
+2023-04-25 Y Trying out a new recipe for homemade bread
+2022-09-26 N Hosting a game night with friends
+2023-01-17 N Attending a seminar on personal development
+2022-10-10 N Practicing photography skills in the park
+2023-06-13 N Watching a documentary on history
+2022-12-11 Y Trying out a new recipe from a cooking blog
+2023-04-02 Y Hosting a barbecue cookout in the backyard
+--------
+Title: 2_sanitized, Chunk: 12
+2022-05-22 N Reviewing study materials for a test
+2023-02-05 N Attending a workshop on leadership skills
+2022-11-27 N Practicing yoga and meditation at home
+2023-03-20 N Trying out a new recipe for homemade pasta
+2022-08-14 N Hosting a potluck dinner with friends
+2023-06-14 N Exploring new hiking trails in the area
+2022-12-05 Y Cooking a special dinner for a loved one
+2023-04-25 Y Trying out a new recipe for homemade bread
+2022-09-26 N Hosting a game night with friends
+2023-01-17 N Attending a seminar on personal development
+--------
+Title: 2_sanitized, Chunk: 13
+2022-10-10 N Practicing photography skills in the park
+2023-06-13 N Watching a documentary on history
+2022-12-11 Y Trying out a new recipe from a cooking blog
+2023-04-02 Y Hosting a barbecue cookout in the backyard
+2022-05-22 N Reviewing study materials for a test
+2023-02-05 N Attending a workshop on leadership skills
+2022-11-27 N Practicing yoga and meditation at home
+2023-03-20 N Trying out a new recipe for homemade pasta
+2022-08-14 N Hosting a potluck dinner with friends
+2023-06-14 N Exploring new hiking trails in the area
+--------
+Title: 2_sanitized, Chunk: 14
+2022-12-05 Y Cooking a special dinner for a loved one
+2023-04-25 Y Trying out a new recipe for homemade bread
+2022-09-26 N Hosting a game night with friends
+2023-01-17 N Attending a seminar on personal development
+2022-10-10 N Practicing photography skills in the park
+2023-06-13 N Watching a documentary on history
+2022-12-11 Y Trying out a new recipe from a cooking blog
+2023-04-02 Y Hosting a barbecue cookout in the backyard
+2022-05-22 N Reviewing study materials for a test
+2023-02-05 N Attending a workshop on leadership skills
+--------
+Title: 2_sanitized, Chunk: 15
+2022-11-27 N Practicing yoga and meditation at home
+2023-03-20 N Trying out a new recipe for homemade pasta
+2022-08-14 N Hosting a potluck dinner with friends
+2023-06-14 N Exploring new hiking trails in the area
+2022-12-05 Y Cooking a special dinner for a loved one
+2023-04-25 Y Trying out a new recipe for homemade bread
+2022-09-26 N Hosting a game night with friends
+2023-01-17 N Attending a seminar on personal development
+2022-10-10 N Practicing photography skills in the park
+2023-06-13 N Watching a documentary on history
+--------
+Title: 2_sanitized, Chunk: 16
+2022-12-11 Y Trying out a new recipe from a cooking blog
+2023-04-02 Y Hosting a barbecue cookout in the backyard
+2022-05-22 N Reviewing study materials for a test
+2023-02-05 N Attending a workshop on leadership skills
+2022-11-12 N Swimming for an hour
+2023-01-05 N Running in the park
+2022-10-30 N Yoga and meditation
+2023-03-18 Y Cycling along the river
+2022-08-17 Y Hiking in the mountains
+2023-06-20 Y Playing tennis with friends
+--------
+Title: 2_sanitized, Chunk: 17
+2022-12-03 Y Strength training at the gym
+2023-02-10 N Dancing salsa in a class
+2022-09-28 N Pilates session at home
+2023-05-15 N Walking in the neighborhood
+2022-04-19 N Studying for exams at the library
+2023-07-22 N Reading a book on philosophy
+2022-12-08 Y Cooking a new recipe for dinner
+2023-08-05 Y Baking homemade bread
+2022-06-11 N Practicing guitar chords
+2023-04-07 Y Experimenting with a new dessert recipe
+--------
+Title: 2_sanitized, Chunk: 18
+2022-09-03 N Writing a journal entry
+2023-01-30 N Researching a topic for a paper
+2022-11-26 N Learning a new language online
+2023-03-26 Y Making homemade pasta from scratch
+2022-10-23 Y Trying out a new vegetarian recipe
+2023-02-17 N Watching a documentary on history
+2022-07-09 N Attending a workshop on photography
+2023-05-05 N Sketching in a notebook
+2022-12-31 N Practicing calligraphy techniques
+2023-08-26 N Taking an online coding course
+--------
+Title: 2_sanitized, Chunk: 19
+2022-03-27 Y Cooking a traditional family recipe
+2023-07-29 Y Baking cookies with friends
+2022-04-23 N Studying for a certification exam
+2023-01-16 N Attending a seminar on finance
+2022-08-13 Y Trying out a new cake decorating technique
+2023-04-15 Y Hosting a dinner party for friends
+2022-11-05 N Reviewing class notes for a test
+2023-02-28 N Exploring new culinary techniques
+2022-10-16 N Watching educational videos on YouTube
+2023-06-09 N Practicing mindfulness meditation
+--------
+Title: 2_sanitized, Chunk: 20
+2022-12-17 Y Cooking a special anniversary dinner
+2023-04-28 Y Making homemade ice cream
+2022-09-10 N Studying for a professional certification
+2023-01-03 N Playing frisbee at the park
+2022-07-30 N Experimenting with watercolor painting
+2023-05-28 N Trying out a new fitness routine
+2022-03-26 Y Hosting a potluck dinner with friends
+2023-07-02 Y Making fresh smoothies at home
+2022-05-14 N Reviewing lecture notes for an exam
+2023-01-09 N Hula hoop workout in the backyard
+--------
+Title: 2_sanitized, Chunk: 21
+2022-10-02 Y Rafting down the river
+2023-02-22 Y Windsurfing at the beach
+2022-11-19 N Circuit training at the gym
+2023-03-12 N Bodyweight exercises at home
+2022-08-06 N Trampoline jumping in the backyard
+2023-06-02 N Playing soccer at the park
+2022-12-24 Y Ice skating at the rink
+2023-05-21 Y Sailing on the lake
+2022-04-09 N Volleyball game with friends
+2023-01-01 N Skateboarding in the skatepark
+--------
+Title: 2_sanitized, Chunk: 22
+2022-07-23 Y Paragliding from the hilltop
+2023-04-22 Y Jet skiing on the river
+2022-09-17 N Circuit training in the backyard
+2023-01-14 N Slacklining in the park
+2022-10-09 N Jogging on the treadmill
+2023-06-05 N Dancing to music at home
+2022-12-10 Y Snowshoeing in the mountains
+2023-04-01 Y Kite surfing at the beach
+2022-05-21 N Golf driving range practice
+2023-02-04 N Kayaking on the river
+--------
+Title: 2_sanitized, Chunk: 23
+2022-11-26 N Basketball game with friends
+2023-03-19 N Skateboarding in the neighborhood
+2022-08-13 Y Climbing trees in the forest
+2023-06-12 Y Playing beach volleyball
+2022-12-03 N Pilates class at the gym
+2023-04-23 N Bodyweight exercises at home
+2022-09-24 Y Trail running in the woods
+2023-01-15 Y Horseback riding on the trail
+2022-10-09 N Kickboxing workout at the gym
+2023-06-12 N Dancing to music at home
+--------
+Title: 2_sanitized, Chunk: 24
+2022-12-11 Y Cross-country skiing in the mountains
+2023-04-02 Y Kayaking on the river
+2022-05-22 N Golf driving range practice
+2023-02-05 N Kayaking on the river
+2022-11-27 N Basketball game with friends
+2023-03-20 N Skateboarding in the neighborhood
+2022-08-14 Y Climbing trees in the forest
+2023-06-13 Y Playing beach volleyball
+2022-12-05 N Pilates class at the gym
+2023-04-25 N Bodyweight exercises at home
+--------
+Title: 2_sanitized, Chunk: 25
+2022-09-26 Y Trail running in the woods
+2023-01-17 Y Horseback riding on the trail
+2022-10-10 N Kickboxing workout at the gym
+2023-06-13 N Dancing to music at home
+2022-12-12 Y Cross-country skiing in the mountains
+2023-04-03 Y Kayaking on the river
+2022-05-23 N Golf driving range practice
+2023-02-06 N Kayaking on the river
+2022-11-28 N Basketball game with friends
+2023-03-21 N Skateboarding in the neighborhood
+
+2022-08-15 Y Climbing trees in the forest
+2023-06-14 Y Playing beach volleyball
+2022-12-06 N Pilates class at the gym
+2023-04-26 N Bodyweight exercises at home
+2022-09-27 Y Trail running in
+2022-11-12 N Swimming for an hour
+2023-01-05 N Running in the park
+2022-10-30 N Yoga and meditation
+2023-03-18 Y Cycling along the river
+2022-08-17 Y Hiking in the mountains
+--------
+Title: 2_sanitized, Chunk: 26
+2023-06-20 Y Playing tennis with friends
+2022-12-03 Y Strength training at the gym
+2023-02-10 N Dancing salsa in a class
+2022-09-28 N Pilates session at home
+2023-05-15 N Walking in the neighborhood
+2022-04-19 N Studying for exams at the library
+2023-07-22 N Reading a book on philosophy
+2022-12-08 Y Cooking a new recipe for dinner
+2023-08-05 Y Baking homemade bread
+2022-06-11 N Practicing guitar chords
+--------
+Title: 2_sanitized, Chunk: 27
+2023-04-07 Y Experimenting with a new dessert recipe
+2022-09-03 N Writing a journal entry
+2023-01-30 N Researching a topic for a paper
+2022-11-26 N Learning a new language online
+2023-03-26 Y Making homemade pasta from scratch
+2022-10-23 Y Trying out a new vegetarian recipe
+2023-02-17 N Watching a documentary on history
+2022-07-09 N Attending a workshop on photography
+2023-05-05 N Sketching in a notebook
+2022-12-31 N Practicing calligraphy techniques
+--------
+Title: 2_sanitized, Chunk: 28
+2023-08-26 N Taking an online coding course
+2022-03-27 Y Cooking a traditional family recipe
+2023-07-29 Y Baking cookies with friends
+2022-04-23 N Studying for a certification exam
+2023-01-16 N Attending a seminar on finance
+2022-08-13 Y Trying out a new cake decorating technique
+2023-04-15 Y Hosting a dinner party for friends
+2022-11-05 N Reviewing class notes for a test
+2023-02-28 N Exploring new culinary techniques
+2022-10-16 N Watching educational videos on YouTube
+--------
+Title: 2_sanitized, Chunk: 29
+2023-06-09 N Practicing mindfulness meditation
+2022-12-17 Y Cooking a special anniversary dinner
+2023-04-28 Y Making homemade ice cream
+2022-09-10 N Studying for a professional certification
+2023-01-03 N Playing frisbee at the park
+2022-07-30 N Experimenting with watercolor painting
+2023-05-28 N Trying out a new fitness routine
+2022-03-26 Y Hosting a potluck dinner with friends
+2023-07-02 Y Making fresh smoothies at home
+2022-05-14 N Reviewing lecture notes for an exam
+--------
+Title: 2_sanitized, Chunk: 30
+2023-01-09 N Hula hoop workout in the backyard
+2022-10-02 Y Rafting down the river
+2023-02-22 Y Windsurfing at the beach
+2022-11-19 N Circuit training at the gym
+2023-03-12 N Bodyweight exercises at home
+2022-08-06 N Trampoline jumping in the backyard
+2023-06-02 N Playing soccer at the park
+2022-12-24 Y Ice skating at the rink
+2023-05-21 Y Sailing on the lake
+2022-04-09 N Volleyball game with friends
+--------
+Title: 2_sanitized, Chunk: 31
+2023-01-01 N Skateboarding in the skatepark
+2022-07-23 Y Paragliding from the hilltop
+2023-04-22 Y Jet skiing on the river
+2022-09-17 N Circuit training in the backyard
+2023-01-14 N Slacklining in the park
+2022-10-09 N Jogging on the treadmill
+2023-06-05 N Dancing to music at home
+2022-12-10 Y Snowshoeing in the mountains
+2023-04-01 Y Kite surfing at the beach
+2022-05-21 N Golf driving range practice
+--------
+Title: 2_sanitized, Chunk: 32
+2023-02-04 N Kayaking on the river
+2022-11-26 N Basketball game with friends
+2023-03-19 N Skateboarding in the neighborhood
+2022-08-13 Y Climbing trees in the forest
+2023-06-12 Y Playing beach volleyball
+2022-12-03 N Pilates class at the gym
+2023-04-23 N Bodyweight exercises at home
+2022-09-24 Y Trail running in the woods
+2023-01-15 Y Horseback riding on the trail
+2022-10-09 N Kickboxing workout at the gym
+--------
+Title: 2_sanitized, Chunk: 33
+2023-06-12 N Dancing to music at home
+2022-12-11 Y Cross-country skiing in the mountains
+2023-04-02 Y Kayaking on the river
+2022-05-22 N Golf driving range practice
+2023-02-05 N Kayaking on the river
+2022-11-27 N Basketball game with friends
+2023-03-20 N Skateboarding in the neighborhood
+2022-08-14 Y Climbing trees in the forest
+2023-06-13 Y Playing beach volleyball
+2022-12-05 N Pilates class at the gym
+--------
+Title: 2_sanitized, Chunk: 34
+2023-04-25 N Bodyweight exercises at home
+2022-09-26 Y Trail running in the woods
+2023-01-17 Y Horseback riding on the trail
+2022-10-10 N Kickboxing workout at the gym
+2023-06-13 N Dancing to music at home
+2022-12-12 Y Cross-country skiing in the mountains
+2023-04-03 Y Kayaking on the river
+2022-05-23 N Golf driving range practice
+2023-02-06 N Kayaking on the river
+2022-11-28 N Basketball game with friends
+--------
+Title: 2_sanitized, Chunk: 35
+2023-03-21 N Skateboarding in the neighborhood
+2022-08-15 Y Climbing trees in the forest
+2023-06-14 Y Playing beach volleyball
+2022-12-06 N Pilates class at the gym
+2023-04-26 N Bodyweight exercises at home
+2022-09-27 Y Trail running in the woods
+2023-01-18 Y Horseback riding on the trail
+2022-10-11 N Kickboxing workout at the gym
+2023-06-14 N Dancing to music at home
+2022-12-13 Y Cross-country skiing in the mountains
+--------
+Title: 2_sanitized, Chunk: 36
+2023-04-04 Y Kayaking on the river
+2022-05-24 N Golf driving range practice
+2023-02-07 N Kayaking on the river
+2022-11-29 N Basketball game with friends
+2023-03-22 N Skateboarding in the neighborhood
+2022-08-16 Y Climbing trees in the forest
+2023-06-15 Y Playing beach volleyball
+2022-12-07 N Pilates class at the gym
+2023-04-27 N Bodyweight exercises at home
+2022-09-28 Y Trail running in the woods
+--------
+Title: 2_sanitized, Chunk: 37
+2023-01-19 Y Horseback riding on the trail
+2022-10-12 N Kickboxing workout at the gym
+2023-06-15 N Dancing to music at home
+2022-12-14 Y Cross-country skiing in the mountains
+2023-04-05 Y Kayaking on the river
+2022-05-25 N Golf driving range practice
+2023-02-08 N Kayaking on the river
+2022-11-30 N Basketball game with friends
+2023-03-23 N Skateboarding in the neighborhood
+2022-08-17 Y Climbing trees in the forest
+--------
+Title: 2_sanitized, Chunk: 38
+2023-06-16 Y Playing beach volleyball
+2022-12-08 N Pilates class at the gym
+2023-04-28 N Bodyweight exercises at home
+2022-09-29 Y Trail running in the woods
+2023-01-20 Y Horseback riding on the trail
+2022-10-13 N Kickboxing workout at the gym
+2023-06-16 N Dancing to music at home
+2022-12-15 Y Cross-country skiing in the mountains
+2023-04-06 Y Kayaking on the river
+2022-05-26 N Golf driving range practice
+--------
+Title: 2_sanitized, Chunk: 39
+2023-02-09 N Kayaking on the river
+2022-12-01 N Basketball game with friends
+2023-03-24 N Skateboarding in the neighborhood
+2022-08-18 Y Climbing trees in the forest
+2023-06-17 Y Playing beach volleyball
+2022-12-09 N Pilates class at the gym
+2023-04-29 N Bodyweight exercises at home
+2022-09-30 Y Trail running in the woods
+2023-01-21 Y Horseback riding on the trail
+2022-10-14 N Kickboxing workout at the gym
+--------
+Title: 2_sanitized, Chunk: 40
+2023-06-17 N Dancing to music at home
+2022-12-16 Y Cross-country skiing in the mountains
+2023-04-07 Y Kayaking on the river
+2022-05-27 N Golf driving range practice
+2023-02-10 N Kayaking on the river
+2022-12-02 N Basketball game with friends
+2023-03-25 N Skateboarding in the neighborhood
+2022-08-19 Y Climbing trees in the forest
+2023-06-18 Y Playing beach volleyball
+2022-12-10 N Pilates class at the gym
+--------
+Title: 2_sanitized, Chunk: 41
+2023-04-30 N Bodyweight exercises at home
+2022-10-01 Y Trail running in the woods
+2023-01-22 Y Horseback riding on the trail
+2022-10-15 N Kickboxing workout at the gym
+2023-06-18 N Dancing to music at home
+2022-12-17 Y Cross-country skiing in the mountains
+2023-04-08 Y Kayaking on the river
+2022-05-28 N Golf driving range practice
+2023-02-11 N Kayaking on the river
+2022-12-03 N Basketball game with friends
+--------
+Title: 2_sanitized, Chunk: 42
+2023-03-26 N Skateboarding in the neighborhood
+2022-08-20 Y Climbing trees in the forest
+2023-06-19 Y Playing beach volleyball
+2022-12-11 N Pilates class at the gym
+2023-05-01 N Bodyweight exercises at home
+2022-10-02 Y Trail running in the woods
+2023-01-23 Y Horseback riding on the trail
+2022-10-16 N Kickboxing workout at the gym
+2023-06-19 N Dancing to music at home
+2022-12-18 Y Cross-country skiing in the mountains
+--------
+Title: 2_sanitized, Chunk: 43
+2023-04-09 Y Kayaking on the river
+2022-05-29 N Golf driving range practice
+2023-02-12 N Kayaking on the river
+2022-12-04 N Basketball game with friends
+2023-03-27 N Skateboarding in the neighborhood
+2022-08-21 Y Climbing trees in the forest
+2023-06-20 Y Playing beach volleyball
+2022-12-12 N Pilates class at the gym
+2023-05-02 N Bodyweight exercises at home
+2022-10-03 Y Trail running in the woods
+--------
+Title: 2_sanitized, Chunk: 44
+2023-01-24 Y Horseback riding on the trail
+2022-10-17 N Kickboxing workout at the gym
+2023-06-20 N Dancing to music at home
+2022-12-19 Y Cross-country skiing in the mountains
+2023-04-10 Y Kayaking on the river
+2022-05-30 N Golf driving range practice
+2023-02-13 N Kayaking on the river
+2022-12-05 N Basketball game with friends
+2023-03-28 N Skateboarding in the neighborhood
+2022-08-22 Y Climbing trees in the forest
+--------
+Title: 2_sanitized, Chunk: 45
+2023-06-21 Y Playing beach volleyball
+2022-12-13 N Pilates class at the gym
+2023-05-03 N Bodyweight exercises at home
+2022-10-04 Y Trail running in the woods
+2023-01-25 Y Horseback riding on the trail
+2022-10-18 N Kickboxing workout at the gym
+2023-06-21 N Dancing to music at home
+2022-12-20 Y Cross-country skiing in the mountains
+2023-04-11 Y Kayaking on the river
+2022-05-31 N Golf driving range practice
+
+2023-02-14 N Kayaking on the river
+2022-12-06 N Basketball game with friends
+2023-03-29 N Skateboarding in the neighborhood
+2022-08-23 Y Climbing trees in the forest
+2023-06-22 Y Playing beach volleyball
+2022-11-12 N Swimming for an hour
+2023-01-05 N Running in the park
+2022-10-30 N Yoga and meditation
+2023-03-18 Y Cycling along the river
+2022-08-17 Y Hiking in the mountains
+--------
+Title: 2_sanitized, Chunk: 46
+2023-06-20 Y Playing tennis with friends
+2022-12-03 Y Strength training at the gym
+2023-02-10 N Dancing salsa in a class
+2022-09-28 N Pilates session at home
+2023-05-15 N Walking in the neighborhood
+2022-11-13 Y Cooking a new recipe for dinner
+2023-01-06 Y Baking cookies at home
+2022-10-31 N Studying for exams at the library
+2023-03-19 N Reading a book on philosophy
+2022-08-18 N Watching a documentary on history
+--------
+Title: 2_sanitized, Chunk: 47
+2023-06-21 N Attending a workshop on photography
+2022-12-04 N Sketching in a notebook
+2023-02-11 Y Trying out a new dessert recipe
+2022-09-29 Y Writing a journal entry
+2023-05-16 N Researching a topic for a paper
+2022-11-14 N Learning a new language online
+2023-01-07 N Making homemade pasta from scratch
+2022-11-15 N Trying out a new vegetarian recipe
+2023-01-08 Y Hosting a dinner party for friends
+2022-11-16 N Reviewing class notes for a test
+--------
+Title: 2_sanitized, Chunk: 48
+2023-01-09 N Exploring new culinary techniques
+2022-11-17 N Watching educational videos on YouTube
+2023-01-10 Y Cooking a special anniversary dinner
+2022-11-18 N Trying out a new cake decorating technique
+2023-01-11 Y Making homemade ice cream
+2022-11-19 N Hosting a game night with friends
+2023-01-12 N Studying for a certification exam
+2022-11-20 N Attending a seminar on finance
+2023-01-13 Y Trying out a new sushi recipe
+2022-11-21 N Practicing guitar chords
+--------
+Title: 2_sanitized, Chunk: 49
+2023-01-14 N Hosting a potluck dinner with friends
+2022-11-22 Y Trying out a new cocktail recipe
+2023-01-15 N Reviewing lecture notes for an exam
+2022-11-23 N Watching a tutorial on painting
+2023-01-16 N Attending a workshop on leadership skills
+2022-11-24 Y Making homemade bread
+2023-01-17 N Studying for a professional certification
+2022-11-25 N Taking an online coding course
+2023-01-18 Y Hosting a barbecue cookout in the backyard
+2022-11-26 N Trying out a new breakfast recipe
+--------
+Title: 2_sanitized, Chunk: 50
+2023-01-19 N Reading a book on personal development
+2022-11-27 N Practicing mindfulness meditation
+2023-01-20 Y Trying out a new recipe for homemade pizza
+2022-11-28 N Hosting a movie night with friends
+2023-01-21 N Watching a webinar on entrepreneurship
+2022-11-29 Y Making homemade soup from scratch
+2023-01-22 N Practicing yoga and meditation at home
+2022-11-30 N Trying out a new painting technique
+2023-01-23 N Attending a workshop on time management
+2022-12-01 Y Cooking a traditional family recipe
+--------
+Title: 2_sanitized, Chunk: 51
+2023-01-24 N Reviewing study materials for a test
+2022-12-02 N Hosting a potluck dinner with friends
+2023-01-25 N Watching a documentary on science
+2022-12-03 Y Trying out a new recipe for homemade pasta sauce
+2023-01-26 N Studying for a language proficiency exam
+2022-12-04 N Taking an online course on photography
+2023-01-27 N Practicing calligraphy techniques
+2022-12-05 N Attending a seminar on psychology
+2023-01-28 Y Trying out a new recipe for homemade tacos
+2022-12-06 Y Hosting a wine tasting party with friends
+--------
+Title: 2_sanitized, Chunk: 52
+2023-01-29 N Reviewing lecture notes for a presentation
+2022-12-07 N Watching educational videos on history
+2023-01-30 N Practicing guitar scales
+2022-12-08 N Exploring new hiking trails in the area
+2023-01-31 N Attending a workshop on negotiation skills
+2022-12-09 Y Making homemade jam from fresh fruits
+2023-02-01 N Studying for a professional certification exam
+2022-12-10 N Taking an online course on personal finance
+2023-02-02 Y Hosting a potluck brunch with friends
+2022-12-11 Y Trying out a new recipe for homemade soup
+--------
+Title: 2_sanitized, Chunk: 53
+2023-02-03 N Reviewing study materials for an exam
+2022-12-12 N Attending a seminar on environmental science
+2023-02-04 N Watching a documentary on technology
+2022-12-13 N Practicing yoga and meditation at home
+2023-02-05 N Trying out a new recipe for homemade bread
+2022-12-14 N Hosting a game night with friends
+2023-02-06 N Watching a webinar on digital marketing
+2022-12-15 N Exploring new recipes for healthy snacks
+2023-02-07 N Studying for a project management certification
+2022-12-16 Y Cooking a special dinner for a loved one
+--------
+Title: 2_sanitized, Chunk: 54
+2023-02-08 N Attending a workshop on public speaking
+2022-12-17 N Watching educational videos on entrepreneurship
+2023-02-09 N Practicing watercolor painting techniques
+2022-12-18 N Reviewing class notes for an upcoming test
+2023-02-10 N Hosting a potluck dinner with friends
+2022-12-19 N Trying out a new recipe for homemade cookies
+2023-02-11 N Attending a seminar on career development
+2022-12-20 N Practicing mindfulness meditation at home
+2023-02-12 Y Making homemade pizza from scratch
+2022-12-21 N Watching a documentary on art history
+--------
+Title: 2_sanitized, Chunk: 55
+2023-02-13 N Studying for a certification in data analysis
+2022-12-22 N Taking an online course on web development
+2023-02-14 Y Trying out a new recipe for homemade ice cream
+2022-12-23 N Hosting a movie marathon with friends
+2023-02-15 N Reviewing study materials for a biology exam
+2022-12-24 N Watching educational videos on psychology
+2023-02-16 N Practicing guitar chords and scales
+2022-12-25 N Exploring new recipes for vegetarian dishes
+2023-02-17 N Studying for a certification in digital marketing
+2022-12-26 Y Cooking a traditional holiday meal for family
+
+2023-02-18 N Attending a workshop on creative writing
+2022-12-27 N Watching a webinar on software development
+2023-02-19 N Practicing watercolor painting at
+--------
